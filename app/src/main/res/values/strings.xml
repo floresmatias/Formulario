@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Formulario</string>
+    <string-array name="obras">
+
+        <item>obra 1</item>
+        <item>obra 2</item>
+        <item>obra 3</item>
+    </string-array>
+</resources>
