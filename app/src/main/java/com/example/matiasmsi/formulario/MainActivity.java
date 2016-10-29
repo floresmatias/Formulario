@@ -34,6 +34,7 @@ public class MainActivity extends AppCompatActivity {
              //   Toast.makeText(getApplicationContext(),"posicion" + id + formularios[i],Toast.LENGTH_SHORT).show();
                 String item = (String) parent.getItemAtPosition(i);
                 Toast.makeText(MainActivity.this,  item ,Toast.LENGTH_SHORT).show();
+                //desde aca deberia estar recatando el valor
 
 
 
